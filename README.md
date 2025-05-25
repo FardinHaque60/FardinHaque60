@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to my GitHub
 
-<!--
-**FardinHaque60/FardinHaque60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+* MSCS, Specialization in ML, UC San Diego (2025 - 2027)
+* BS Software Engineering, San Jose State University (2022 - 2025)
 
-Here are some ideas to get you started:
+## Experience
+* SWE Intern Google (Summer 2025)
+* Research Assistant (2024 - 2025 School Year)
+* SWE Intern Google (Summer 2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+* Full-stack (Java, Python, TypeScript, API Design)
+* Data engineering (SciPy, Jupyter Notebooks, Matplotlibs, NumPy, Pandas)
+* Computer networking (WebSockets, UDP, TCP/ IP, Embedded Programming)
+
+## More Info
+* Check out more of my work on my [linkedin](https://www.linkedin.com/in/fardinhaque/) or [portfolio](https://fardinhaque60.github.io/)
+  
