@@ -1,7 +1,7 @@
 # Welcome to my GitHub
 
 ## Education
-* MSCS, Specialization in ML, UC San Diego (2025 - 2027)
+* MS CSE, Specialization in ML, UC San Diego (2025 - 2027)
 * BS Software Engineering, San Jose State University (2022 - 2025)
 
 ## Experience
