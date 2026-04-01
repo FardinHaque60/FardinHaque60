@@ -1,10 +1,11 @@
 # Welcome to my GitHub
 
 ## Education
-* MS CSE, Specialization in ML, UC San Diego (2025 - 2027)
+* MS CSE, Specialization in ML, UC San Diego (2025 - 2026)
 * BS Software Engineering, San Jose State University (2022 - 2025)
 
 ## Experience
+* SWE Intern NVIDIA (Summer 2026)
 * SWE Intern Google (Summer 2025)
 * Research Assistant (2024 - 2025 School Year)
 * SWE Intern Google (Summer 2024)
@@ -16,4 +17,3 @@
 
 ## More Info
 * Check out more of my work on my [linkedin](https://www.linkedin.com/in/fardinhaque/) or [portfolio](https://fardinhaque60.github.io/)
-  
